@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<div style="display: flex; justify-content: space-between;padding-left: 100px ; padding-right:100px ;box-shadow:2px 1px 2px #eee;">
+    <img width = "150" src="https://zerodha.com/static/images/logo.svg" alt="Zerodha main" height="30px" style="padding-top:15px ;">
+    <div style="display: flex;">
+    <div style="padding: 20px;color: #666; cursor: pointer;">Signup</div>
+    <div style="padding: 20px;color: #666;cursor: pointer">About</div>
+    <div style ="padding: 20px;color: #666;cursor: pointer">Product</div>
+    <div style="padding: 20px;color: #666;cursor: pointer">Pricing</div>
+    <div style="padding: 20px;color: #666;cursor: pointer">Support</div>
+    </div>
+</div>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<div style="display: flex; justify-content: center;">
+    <img src="https://zerodha.com/static/images/landing.png" width="650">
+</div>
+<div style="padding-top: 20px; display: flex;justify-content: center;">
+    <h1 style="font-weight: 500;">Invest in Everything</h1>
+</div>
+<div style ="display: flex;justify-content: center;">
+    <h3 style="font-weight: 400;">Online platform to invest in stocks, derivatives, mutual funds, ETFs, bonds, and more.</h3>
+</div>
+<div style="display: flex;justify-content: center;"> 
 
+    <div style="background-color: #387ed1;padding-right: 30px;padding-left: 30px;padding-bottom: 10px;padding-top: 10px;color: white;border-radius:3px;font-size:20px;cursor: pointer;;">
+        Sign up now 
+    </div>
+
+</div>
