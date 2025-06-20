@@ -1,3 +1,4 @@
+// LEARNED ABOUT ROUTING AND LAYOUT IN REACT
 import { useState } from 'react'
 import './App.css'
 import { BrowserRouter, Routes, Route,Link,useNavigate ,Outlet} from "react-router-dom";
