@@ -1,3 +1,4 @@
+//useRef is a hook that provides a way to create a reference to a value or a DOM element that persists across renders but does not trigger a re-render when the value changes.
 import React, { useRef } from 'react';
 
 function FocusInput() {
