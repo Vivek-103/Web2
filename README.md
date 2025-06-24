@@ -10,7 +10,7 @@ This repo is my digital notebook, project showcase, and personal accountability 
 
 ✅ **Cohort:** 3.0  
 🔧 **Track:** Web Development  
-📍 **Progress:** Halfway through – currently learning **React** and loving the journey!   
+📍 **Progress:** Halfway through – currently learning **Tailwind** and loving the journey!   
 🧠 **Goal:** Become a confident full-stack web developer
 
 ---
