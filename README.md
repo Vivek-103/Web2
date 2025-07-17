@@ -1,4 +1,4 @@
-# 🚀 Harkirat Singh's Cohort 3.0 – Web Development Journey
+# 🚀 Harkirat Singh's Cohort 3.0 – Web Development Journey 
 
 Welcome to my GitHub repository where I document everything I'm learning and building as part of **Cohort 3.0** – Web Development Track.  
 
