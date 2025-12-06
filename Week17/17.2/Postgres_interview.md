@@ -408,10 +408,3 @@ Popular ORMs:
 ✅ Includes: SQL solutions and coding interview queries
 
 ---
-
-If needed, this file can be extended with:
-
-* PostgreSQL MCQs
-* Company-specific questions
-* System design with PostgreSQL
-* Performance tuning guide
